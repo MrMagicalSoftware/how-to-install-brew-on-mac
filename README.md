@@ -49,8 +49,17 @@ Verifica dell'installazione :
 brew doctor
 ```
 
+Per installare un nuovo software
+```
+brew install NOME_DEL_SOFTWARE
+```
+
+Per visionare tutti i software installati :
 
 
+```
+brew list
 
+```
 
 
