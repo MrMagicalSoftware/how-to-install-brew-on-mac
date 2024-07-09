@@ -10,7 +10,7 @@ olo che tutto avviene via linea di comando.
 
 Controllare se brew è installato
 
-Aprire il terminale e digitare brew :
+## Aprire il terminale e digitare brew :
 
 ```
 brew
@@ -23,7 +23,7 @@ zsh: command not found: brew
 
 Significa che non è installato.
 
-Comando per installare brew :
+## Comando per installare brew :
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -32,7 +32,7 @@ Comando per installare brew :
 
 Su Mac M1, M2, M3 :
 
-Eseguire questi 2 comandi :
+## Eseguire questi 2 comandi :
 
 ```
 (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
@@ -43,18 +43,18 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 
-Verifica dell'installazione :
+## Verifica dell'installazione :
 
 ```
 brew doctor
 ```
 
-Per installare un nuovo software
+## Per installare un nuovo software
 ```
 brew install NOME_DEL_SOFTWARE
 ```
 
-Per visionare tutti i software installati :
+## Per visionare tutti i software installati :
 
 
 ```
