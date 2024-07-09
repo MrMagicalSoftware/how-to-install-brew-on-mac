@@ -1,6 +1,13 @@
 # how-to-install-brew-on-mac
 
 
+Brew è sostanzialmente un repository dove poter scaricare, 
+installare e mantenere aggiornato del software open source.
+In pratica lo possiamo vedere come una sorta di app store, s
+olo che tutto avviene via linea di comando.
+
+
+
 Controllare se brew è installato
 
 Aprire il terminale e digitare brew :
