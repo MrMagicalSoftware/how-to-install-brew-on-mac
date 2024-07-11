@@ -1,6 +1,11 @@
 # how-to-install-brew-on-mac
 
 
+Watch the video :
+
+https://www.youtube.com/watch?v=yRdwUXeoH8w
+
+
 Brew è sostanzialmente un repository dove poter scaricare, 
 installare e mantenere aggiornato del software open source.
 In pratica lo possiamo vedere come una sorta di app store, da linea di comando.
